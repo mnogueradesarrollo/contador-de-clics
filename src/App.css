@@ -34,3 +34,13 @@ img {
   height: 50px;
   width: auto;
 }
+
+.container-principal {
+  height: 550px;
+  min-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
